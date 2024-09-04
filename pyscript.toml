@@ -1,0 +1,1 @@
+"packages" = ["textual","tabulate","html2text","ipywidgets","sqlite3","pandas","Jinja2","numpy","scikit-learn","matplotlib","scipy","requests","beautifulsoup4","seaborn","opencv-python"]
